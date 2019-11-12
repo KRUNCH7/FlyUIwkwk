@@ -2,8 +2,8 @@ name: FlyUI
 main: FlyUI\Main
 api: [3.0.0, 4.0.0]
 version: 1.0
-author: Misael38
-github: https://github.com/misael38
+author: KRUNCH7
+github: https://github.com/KRUNCH7
 
 commands:
  fly:
